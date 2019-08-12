@@ -1,0 +1,4 @@
+$1$ad000000$bblxpia3UqwmtjygDvLeP.
+
+usuario:admin
+clave:admin
